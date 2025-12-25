@@ -1,5 +1,5 @@
 # Tej-collection-of-manipulatiopn
-# Student Management System 🧑‍🎓
+# Student Management System 
 
 A simple Python-based project to manage student records using functions.
 
@@ -30,4 +30,4 @@ student-management-system/
 
 # Author
 Name: Patel Tej  
-Course: Python Programming  
+project about: collection of manupulation
